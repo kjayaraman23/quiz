@@ -1,0 +1,38 @@
+{
+  "question": [
+    "1) What is the maximum possible length of an identifier?",
+    "2) Who developed the Python language?",
+    "3) Which one of the following is the correct extension of the Python file?",
+    "4) What do we use to define a block of code in Python language?"
+
+  ],
+  "answer": [
+    1,
+    2,
+    3,
+    2
+  ],
+  "options": [
+
+    ["16",
+      "32",
+      "64",
+      "None of these above"
+    ],
+    ["Zim Den",
+      "Guido van Rossum",
+      "Niene Stom",
+      "Wick van Rossum"
+    ],
+    [".py",
+      ".python",
+      ".p",
+      "None of these"
+    ],
+    ["Key",
+      "Brackets",
+      "Indentation",
+      "None of these"
+    ]
+  ]
+}
